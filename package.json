@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@apollo/client": "^3.5.10",
+    "@skill-wallet/auth": "^1.0.52",
+    "graphql": "^16.3.0",
     "next": "12.1.4",
     "react": "18.0.0",
     "react-dom": "18.0.0"
